@@ -18,6 +18,9 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 - **Tools:** Power BI, DAX, SQL
 - **Highlights:** Drill-through capabilities, KPI tracking.
 - **Preview:**
+
+
+  
 -![Dashboard Screenshot](Captura%20Lista%20de%20Ventas.png) 
 <iframe title="Lista de Ventas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -29,7 +32,9 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 - **Tools:** Power BI, Excel
 - **Highlights:** Trend analysis, dynamic filters.
 - **Preview:**
-- 
+
+
+  
 ![Dashboard Screenshot](WUP.png)  
 <iframe title="WUP Budget Report" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=75e2a1f9-a3cf-4c84-ba37-f4895bc85253&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
 
