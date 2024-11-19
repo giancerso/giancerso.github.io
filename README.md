@@ -1,5 +1,7 @@
 # Welcome to My Power BI Portfolio! 🎉
-<link rel="stylesheet" href="styles.css">
+# Gianluca Cersosimo's Power BI Portfolio
+Visit my live portfolio here: [giancerso.github.io](https://giancerso.github.io)
+
 Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. This website showcases my interactive dashboards and analytics projects.
 
 ---
@@ -40,18 +42,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 
 ---
 
-### 3. **Customer Insights Dashboard**
-- **Description:** Insights into customer demographics, behaviors, and satisfaction.
-- **Tools:** Power BI, R
-- **Highlights:** Heatmaps, demographic segmentation.
-- **Preview:**
-- 
-![Dashboard Screenshot](https://via.placeholder.com/800x400.png)  
-[View Interactive Dashboard](https://app.powerbi.com/yourdashboardlink)
-
----
 
 ## 📬 Contact Me
 - 📧 Email: [gianlucacerso@gmail.com](mailto:gianlucacerso@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/giancerso](https://www.linkedin.com/in/gianluca-cersosimo-0410191aa/)
-- 🌐 Website: [Gianluca's Analytics](https://giancerso.github.io)
+- 🌐 Website: [giancerso.github.io](https://giancerso.github.io)
