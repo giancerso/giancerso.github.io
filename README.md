@@ -28,7 +28,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 - **Description:** A financial report for tracking revenue, expenses, and profitability over time.
 - **Tools:** Power BI, Excel
 - **Highlights:** Trend analysis, dynamic filters.
-- **Preview:**  
+- **Preview:**
+- 
 ![Dashboard Screenshot](WUP.png)  
 <iframe title="WUP Budget Report" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=75e2a1f9-a3cf-4c84-ba37-f4895bc85253&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
 
@@ -38,7 +39,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 - **Description:** Insights into customer demographics, behaviors, and satisfaction.
 - **Tools:** Power BI, R
 - **Highlights:** Heatmaps, demographic segmentation.
-- **Preview:**  
+- **Preview:**
+- 
 ![Dashboard Screenshot](https://via.placeholder.com/800x400.png)  
 [View Interactive Dashboard](https://app.powerbi.com/yourdashboardlink)
 
@@ -47,7 +49,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 ## 📬 Contact Me
 - 📧 Email: [gianlucacerso@gmail.com](mailto:gianlucacerso@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gianluca-cersosimo-0410191aa/)
-- 🌐 Website: [Gianluca's Analytics](https://yourwebsite.com)
+- 🌐 Website: [Gianluca's Analytics](giancerso.github.io
+.com)
 
 ---
 
