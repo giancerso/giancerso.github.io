@@ -1,56 +1,80 @@
-/* General Styles */
+/* Reset some default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* General layout and background */
 body {
-    font-family: 'Open Sans', sans-serif;
-    background-color: #f4f4f9;
-    color: #333;
-    line-height: 1.6;
-    margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  line-height: 1.6;
+  padding: 0;
 }
 
-/* Header Styles */
-h1, h2, h3 {
-    font-family: 'Montserrat', sans-serif;
-    color: #003366;
+/* Header section */
+header {
+  background: #2c3e50;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
 }
 
-/* Button Styles */
-button, .btn {
-    background-color: #28a745;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
+header h1 {
+  font-size: 2.5rem;
 }
 
-button:hover, .btn:hover {
-    background-color: #218838;
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
 }
 
-/* Card Layouts for Projects */
-.card {
-    background-color: #fff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    margin: 20px;
-    border-radius: 10px;
-    padding: 20px;
-    transition: transform 0.3s ease;
+nav a:hover {
+  text-decoration: underline;
 }
 
-.card:hover {
-    transform: translateY(-5px);
+/* Showcase Section */
+.showcase {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px 0;
 }
 
-.card img {
-    width: 100%;
-    border-radius: 10px;
+.showcase .project {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  width: 300px;
+  text-align: center;
+  overflow: hidden;
+}
+
+.showcase img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.showcase .project h3 {
+  padding: 10px;
+  background-color: #ecf0f1;
+  font-size: 1.2rem;
 }
 
 /* Footer */
 footer {
-    background-color: #003366;
-    color: white;
-    padding: 20px;
-    text-align: center;
+  background: #2c3e50;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+  margin-top: 40px;
+}
+
+footer p {
+  font-size: 1rem;
 }
