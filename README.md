@@ -18,8 +18,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 - **Tools:** Power BI, DAX, SQL
 - **Highlights:** Drill-through capabilities, KPI tracking.
 - **Preview:**  
-![Dashboard Screenshot](<iframe title="Lista de Ventas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>)  
-[View Interactive Dashboard](https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93)
+<iframe title="Lista de Ventas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+
 
 ---
 
