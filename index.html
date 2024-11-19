@@ -4,6 +4,47 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Gianluca Cersosimo - Power BI Portfolio</title>
+  <style>
+    /* Flexbox for Horizontal Layout */
+    .projects-container {
+      display: flex;
+      flex-wrap: wrap; /* Allows wrapping if the screen is small */
+      gap: 20px; /* Space between projects */
+    }
+
+    .project {
+      flex: 1 1 calc(33.33% - 20px); /* Makes each project take 1/3 of the row (adjust for 2 or 4 projects) */
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+      border-radius: 10px;
+      padding: 15px;
+      background: #f9f9f9;
+    }
+
+    .project img {
+      max-width: 100%;
+      border-radius: 10px;
+    }
+
+    .project iframe {
+      width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+
+    h2, h3 {
+      text-align: center;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+
+    .projects-container h3 {
+      margin-top: 0;
+    }
+  </style>
 </head>
 <body>
   <!-- Welcome Section -->
@@ -13,27 +54,37 @@
 
   <!-- Featured Projects Section -->
   <h2>📊 Featured Projects</h2>
+  <div class="projects-container">
+    <!-- Project 1 -->
+    <div class="project">
+      <h3>1. Used Car Sales and Sellers' Performance Dashboard</h3>
+      <p><strong>Description:</strong> A dashboard analyzing sales performance across regions, products, and teams.</p>
+      <p><strong>Tools:</strong> Power BI, DAX, SQL</p>
+      <p><strong>Highlights:</strong> Drill-through capabilities, KPI tracking.</p>
+      <img src="Captura%20Lista%20de%20Ventas.png" alt="Dashboard Screenshot">
+      <iframe title="Lista de Ventas" src="https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
 
-  <h3>1. Used Car Sales and Sellers' Performance Dashboard</h3>
-  <p><strong>Description:</strong> A dashboard analyzing sales performance across regions, products, and teams.</p>
-  <p><strong>Tools:</strong> Power BI, DAX, SQL</p>
-  <p><strong>Highlights:</strong> Drill-through capabilities, KPI tracking.</p>
-  <img src="Captura%20Lista%20de%20Ventas.png" alt="Dashboard Screenshot">
-  <iframe title="Lista de Ventas" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5db2dac0-3a7a-4628-97f1-07a93d17d0b6&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+    <!-- Project 2 -->
+    <div class="project">
+      <h3>2. Financial Analysis Report</h3>
+      <p><strong>Description:</strong> A financial report for tracking revenue, expenses, and profitability over time.</p>
+      <p><strong>Tools:</strong> Power BI, Excel</p>
+      <p><strong>Highlights:</strong> Trend analysis, dynamic filters.</p>
+      <img src="WUP.png" alt="Dashboard Screenshot">
+      <iframe title="WUP Budget Report" src="https://app.powerbi.com/reportEmbed?reportId=75e2a1f9-a3cf-4c84-ba37-f4895bc85253&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
 
-  <h3>2. Financial Analysis Report</h3>
-  <p><strong>Description:</strong> A financial report for tracking revenue, expenses, and profitability over time.</p>
-  <p><strong>Tools:</strong> Power BI, Excel</p>
-  <p><strong>Highlights:</strong> Trend analysis, dynamic filters.</p>
-  <img src="WUP.png" alt="Dashboard Screenshot">
-  <iframe title="WUP Budget Report" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=75e2a1f9-a3cf-4c84-ba37-f4895bc85253&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
-
-  <h3>3. Customer Insights Dashboard</h3>
-  <p><strong>Description:</strong> Insights into customer demographics, behaviors, and satisfaction.</p>
-  <p><strong>Tools:</strong> Power BI, R</p>
-  <p><strong>Highlights:</strong> Heatmaps, demographic segmentation.</p>
-  <img src="Captura%20de%20pantalla%202024-11-19%20133352.png" alt="Customer Insights Dashboard Screenshot">
-  <iframe title="Restaurant Orders" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=66c029b2-a6df-46ea-9e0a-3f94e892a293&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+    <!-- Project 3 -->
+    <div class="project">
+      <h3>3. Customer Insights Dashboard</h3>
+      <p><strong>Description:</strong> Insights into customer demographics, behaviors, and satisfaction.</p>
+      <p><strong>Tools:</strong> Power BI, R</p>
+      <p><strong>Highlights:</strong> Heatmaps, demographic segmentation.</p>
+      <img src="Captura%20de%20pantalla%202024-11-19%20133352.png" alt="Customer Insights Dashboard Screenshot">
+      <iframe title="Restaurant Orders" src="https://app.powerbi.com/reportEmbed?reportId=66c029b2-a6df-46ea-9e0a-3f94e892a293&autoAuth=true&ctid=3c71cbab-b5ed-4f3b-ac0d-95509d6c0e93" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+  </div>
   <hr>
 
   <!-- About Me Section -->
