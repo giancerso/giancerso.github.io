@@ -13,7 +13,7 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 
 ## 📊 Featured Projects
 
-### 1. **Sales Performance Dashboard**
+### 1. **Used Car Sales and Sellers' Performance Dashboard**
 - **Description:** A dashboard analyzing sales performance across regions, products, and teams.
 - **Tools:** Power BI, DAX, SQL
 - **Highlights:** Drill-through capabilities, KPI tracking.
