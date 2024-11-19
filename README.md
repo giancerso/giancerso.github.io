@@ -45,8 +45,8 @@ Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. 
 ---
 
 ## 📬 Contact Me
-- 📧 Email: [yourname@example.com](mailto:yourname@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [gianlucacerso@gmail.com](mailto:gianlucacerso@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/gianluca-cersosimo-0410191aa/)
 - 🌐 Website: [Gianluca's Analytics](https://yourwebsite.com)
 
 ---
