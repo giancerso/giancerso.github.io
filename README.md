@@ -1,5 +1,5 @@
 # Welcome to My Power BI Portfolio! 🎉
-
+<link rel="stylesheet" href="styles.css">
 Hello! I'm **Gianluca Cersosimo**, a Financial Analyst and Power BI enthusiast. This website showcases my interactive dashboards and analytics projects.
 
 ---
